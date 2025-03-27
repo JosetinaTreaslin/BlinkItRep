@@ -1,21 +1,26 @@
-# ChatbotRep
- 
-# Gemini Chatbot
+# Power BI Dashboard for Blinkit Data Analysis  
 
-![Chatbot Logo](https://media.istockphoto.com/id/1445426863/vector/chat-bot-vector-logo-design-concept.jpg?s=612x612&w=0&k=20&c=XDdfzS4lNW9yxQ0BQGZq9KMLL4bJ8ywXlYdAhBSuoCA=){ width=30 height=20 }
+This Power BI application analyzes data from the **Blinkit** app to provide insights into customer behavior, order trends, product performance, and overall business metrics.  
 
+## Features  
+- **Order Analysis** – Track daily, weekly, and monthly order trends.  
+- **Customer Insights** – Analyze purchasing patterns, demographics, and preferences.  
+- **Product Performance** – Identify best-selling products and underperforming items.  
+- **Revenue & Sales Metrics** – Monitor revenue, discounts, and profitability.  
+- **Delivery Efficiency** – Measure average delivery time and success rates.  
+- **Interactive Visuals** – Dynamic charts, graphs, and reports for in-depth analysis.  
 
-## 📌 Overview
-This is an AI-powered chatbot using Google Gemini (`gemini-1.5-pro-latest`). It interacts with users and generates responses using Google's Generative AI API.
+## Prerequisites  
+Ensure you have the following:  
+- **Power BI Desktop** installed  
+- **Blinkit Data Source** (CSV, API, or Database)  
+- **SQL (if using a database connection)**  
 
-## 🚀 Features
-- AI-powered conversation with Google Gemini
-- Flask-based web interface
-- JSON-based API for interaction
-
-## 🛠️ Installation
-
-### 1️⃣ Clone the Repository
+## Installation & Setup  
 ```sh
-git clone https://github.com/your-repo/chatbot.git
-cd chatbot
+# Open Power BI Desktop  
+# Load the Blinkit dataset (CSV, Excel, API, or database connection)  
+# Clean and transform data using Power Query  
+# Create relationships between tables  
+# Build reports and dashboards using Power BI visualizations  
+# Publish the dashboard to Power BI Service for sharing  
